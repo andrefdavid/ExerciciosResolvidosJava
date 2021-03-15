@@ -1,0 +1,2 @@
+Série de exercícios básicos para quem está estudando ou ensinando lógica de programação em Java.
+Os exercícios são voltados para alunos iniciantes no mundo da programação e, portanto, não abordam o paradigma de Orientação a Objetos. 
